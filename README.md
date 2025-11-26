@@ -1,4 +1,4 @@
-# Vera Golz
+<h1 style="text-align: center;">Vera Golz</h1>
 
 <p style="text-align: center;">
   Keen on digital learning, (serious) gaming and immersive 3D-simulations with a focus on good user experience.
@@ -26,7 +26,7 @@ _University of Duisburg-Essen_
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
-<img src="/assets/images/ma_main_page.png" 
+<img src="assets/images/ma_main_page.png" 
        style="width: 40%; border-radius: 8px;">
 
   <div style="flex: 1;">
