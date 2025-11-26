@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Vera Golz</h1>
 
 <p style="text-align: center;">
-  Keen on digital learning, (serious) gaming and immersive 3D-simulations with a focus on good user experience.
+  Passionate about digital learning, (serious) games, and immersive 3D simulations, with a strong focus on user experience and a keen interest in designing inclusive experiences that prioritize accessibility.
 </p>
 ---
 
