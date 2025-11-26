@@ -1,17 +1,22 @@
 # Vera Golz
 
-_Keen on digital learning, (serious) gaming and immersive 3D-simulations with a focus on good user experience._
+<p style="text-align: center;">
+  Keen on digital learning, (serious) gaming and immersive 3D-simulations with a focus on good user experience.
+</p>
+---
 
 # Education
 
-- M.Sc. Applied Cognitive and Media Science
-  Specialisation: Computer Science (Graphic and Interactive Systems)
-  _University of Duisburg-Essen_, 20xx-2025
+M.Sc. Applied Cognitive and Media Science
+Specialisation: Computer Science (Graphic and Interactive Systems)
+_University of Duisburg-Essen_
+20xx-2025
 
-- B.Sc. Applied Cognitive and Media Science
-  _University of Duisburg-Essen_, 2018-20xx
+B.Sc. Applied Cognitive and Media Science
+_University of Duisburg-Essen_
+2018-20xx
 
-  ***
+---
 
 # Projects
 
@@ -21,7 +26,7 @@ _Keen on digital learning, (serious) gaming and immersive 3D-simulations with a 
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
-<img src="/assets/images/masters_thesis_main_page.png" 
+<img src="/assets/images/ma_main_page.png" 
        style="width: 40%; border-radius: 8px;">
 
   <div style="flex: 1;">
