@@ -15,18 +15,18 @@ _Keen on Digital Learning, (Serious) Gaming and immersive 3D-Simulations with a 
 
 ## Programming
 
-<div style="background-color:rgb(239, 239, 239); padding: 20px; border-radius: 10px">
+<div style="background-color:rgb(239, 239, 239); padding: 20px; border-radius: 10px;">
 
-### [Master's Thesis](Projects/masters_thesis.md)
+<h3><a href="Projects/masters_thesis.md">Master's Thesis</a></h3>
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
 <img src="assets/images/ma_main_page.png"
-    style="width: 40%; border-radius: 8px;">
+       style="width: 40%; border-radius: 8px;">
 
-<div style="flex: 1;">
-    My master's thesis focused on...
-</div>
+  <div style="flex: 1;">
+      My master's thesis focused on...
+  </div>
 
 </div>
 
