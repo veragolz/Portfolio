@@ -15,7 +15,7 @@ _Keen on Digital Learning, (Serious) Gaming and immersive 3D-Simulations with a 
 
 ## Programming
 
-<div style="background-color:rgb(248, 240, 227); padding: 20px; border-radius: 10px>
+<div style="background-color:rgb(248, 240, 227); padding: 20px; border-radius: 10px">
     ### [Master's Thesis](Projects/masters_thesis.md)
 
     <div style="display: flex; gap: 20px; align-items: flex-start;">
