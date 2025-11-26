@@ -12,3 +12,7 @@ minima:
       url: "https://www.linkedin.com/in/vera-golz-9a158b253/"
   nav_pages:
     - README.md
+
+author:
+  name: Vera Golz
+  email: "vera.golz98@web.de"
