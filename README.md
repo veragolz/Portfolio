@@ -1,7 +1,3 @@
----
-layout: home
----
-
 <h1 style="text-align: center;">Vera Golz</h1>
 
 <p style="text-align: center;">
