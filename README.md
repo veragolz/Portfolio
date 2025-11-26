@@ -17,16 +17,16 @@ _Keen on Digital Learning, (Serious) Gaming and immersive 3D-Simulations with a 
 
 ### [Master's Thesis](Projects/masters_thesis.md)
 
-<table>
-  <tr>
-    <td style="width: 40%;">
-      <img src="/assets/images/masters_thesis_main_page.png" style="width:100%;">
-    </td>
-    <td style="width: 60%; vertical-align: top;">
-      My master's thesis focused on...
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+
+<img src="/assets/images/masters_thesis_main_page.png" 
+       style="width: 40%; border-radius: 8px;">
+
+  <div style="flex: 1;">
+    My master's thesis focused on...
+  </div>
+
+</div>
 
 ### Research Project (KoKri)
 
