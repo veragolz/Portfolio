@@ -20,13 +20,8 @@ _Keen on Digital Learning, (Serious) Gaming and immersive 3D-Simulations with a 
 
     <div style="display: flex; gap: 20px; align-items: flex-start;">
 
-<<<<<<< HEAD
     <img src="assets/images/ma_main_page.png"
         style="width: 40%; border-radius: 8px;">
-=======
-<img src="assets/images/ma_main_page.png" 
-       style="width: 40%; border-radius: 8px;">
->>>>>>> origin/main
 
     <div style="flex: 1;">
         My master's thesis focused on...
