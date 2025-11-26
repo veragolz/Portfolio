@@ -1,6 +1,6 @@
 # Vera Golz
 
-_Keen on Digital Learning, (Serious) Gaming and immersive 3D-Simulations with a focus on good User Experience._
+_Keen on digital learning, (serious) gaming and immersive 3D-simulations with a focus on good user experience._
 
 # Education
 
@@ -11,34 +11,38 @@ _Keen on Digital Learning, (Serious) Gaming and immersive 3D-Simulations with a 
 - B.Sc. Applied Cognitive and Media Science
   _University of Duisburg-Essen_, 2018-20xx
 
+  ***
+
 # Projects
 
 ## Programming
 
-<div style="background-color:rgb(239, 239, 239); padding: 20px; border-radius: 10px;">
-
-<h3><a href="Projects/masters_thesis.md">Master's Thesis</a></h3>
+### [Master's Thesis](Projects/masters_thesis.md)
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
-<img src="assets/images/ma_main_page.png"
+<img src="/assets/images/masters_thesis_main_page.png" 
        style="width: 40%; border-radius: 8px;">
 
   <div style="flex: 1;">
-      My master's thesis focused on...
+    My master's thesis focused on...
   </div>
 
 </div>
 
-</div>
+---
 
 ### Research Project (KoKri)
+
+---
 
 ## 3D-Modelling and Animation
 
 ### Virtual Synagogue
 
 This project was conducted in my team at mxr storytelling, aiming to preserve...
+
+---
 
 ### Robotic Arm
 
