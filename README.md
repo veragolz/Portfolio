@@ -20,9 +20,7 @@ _University of Duisburg-Essen_
 
 # Projects
 
-## Programming
-
-### [Master's Thesis](Projects/masters_thesis.md)
+## [Master's Thesis: Development of a Multiplayer VR Simulation targeting Adolescent Patients with Anorexia Nervosa and their Parents](Projects/masters_thesis.md)
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
@@ -37,18 +35,16 @@ _University of Duisburg-Essen_
 
 ---
 
-### Research Project (KoKri)
+## Research Project (KoKri)
 
 ---
 
-## 3D-Modelling and Animation
-
-### Virtual Synagogue
+## 3D-Modeling of the old Synagogue of Gelsenkirchen as a Contribution towards the Culture of Memory
 
 This project was conducted in my team at mxr storytelling, aiming to preserve...
 
 ---
 
-### Robotic Arm
+## Robotic Arm
 
 ...not yet started.
