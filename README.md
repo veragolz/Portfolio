@@ -24,8 +24,7 @@ _University of Duisburg-Essen_
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
-<img src="assets/images/ma_main_page.png" 
-       style="width: 20%; border-radius: 8px;">
+<img src="assets/images/ma_main_page.png" style="width: 20%; border-radius: 8px;" alt="Image of the master's thesis, showing parts of the VR application.">
 
   <div style="flex: 1;">
     In my master's thesis, I conceptualized and developed a VR simulation, supporting the perspective-taking between adolescents with Anorexia Nervosa and their parents for better therapy outcomes. This work contained a thorough requirements analysis, including extensive literature research and iterative interviews with clinicians, the development in C# for Unity for the Meta Quest 3 and a final evaluation.
