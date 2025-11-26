@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "Vera Golz"
+layout: home
 ---
+
+<h1 style="text-align: center;">Vera Golz</h1>
 
 <p style="text-align: center;">
   Keen on digital learning, (serious) gaming and immersive 3D-simulations with a focus on good user experience.
