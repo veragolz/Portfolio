@@ -18,17 +18,17 @@ _University of Duisburg-Essen_
 
 ---
 
-# Projects
+# My Projects
 
-## [Master's Thesis: Development of a Multiplayer VR Simulation targeting Adolescent Patients with Anorexia Nervosa and their Parents](Projects/masters_thesis.md)
+## [Master's Thesis: Multiplayer VR Simulation targeting Adolescents with Anorexia Nervosa](Projects/masters_thesis.md)
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
 <img src="assets/images/ma_main_page.png" 
-       style="width: 40%; border-radius: 8px;">
+       style="width: 20%; border-radius: 8px;">
 
   <div style="flex: 1;">
-    My master's thesis focused on...
+    In my master's thesis, I conceptualized and developed a VR simulation, supporting the perspective-taking between adolescents with Anorexia Nervosa and their parents for better therapy outcomes. This work contained a thorough requirements analysis, including extensive literature research and iterative interviews with clinicians, the development in C# for Unity for the Meta Quest 3 and a final evaluation.
   </div>
 
 </div>
