@@ -1,1 +1,8 @@
 remote_theme: "jekyll/minima@1e8a445"
+
+theme: minima
+minima:
+  skin: dark
+  social_links:
+    github: veragolz
+    linkedin: Vera Golz
