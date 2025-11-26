@@ -17,7 +17,16 @@ _Keen on Digital Learning, (Serious) Gaming and immersive 3D-Simulations with a 
 
 ### [Master's Thesis](Projects/masters_thesis.md)
 
-My master's thesis focused on...
+<table>
+  <tr>
+    <td style="width: 40%;">
+      <img src="/assets/images/masters_thesis_main_page.png" style="width:100%;">
+    </td>
+    <td style="width: 60%; vertical-align: top;">
+      My master's thesis focused on...
+    </td>
+  </tr>
+</table>
 
 ### Research Project (KoKri)
 
