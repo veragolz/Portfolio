@@ -2,3 +2,7 @@ theme: null
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
+
+  minima:
+    skin: auto
