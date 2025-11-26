@@ -7,14 +7,14 @@
 
 # Education
 
-M.Sc. Applied Cognitive and Media Science
-Specialisation: Computer Science (Graphic and Interactive Systems)
+20xx-2025  
+**M.Sc. Applied Cognitive and Media Science**  
+Specialisation: Computer Science (Graphic and Interactive Systems)  
 _University of Duisburg-Essen_
-20xx-2025
 
-B.Sc. Applied Cognitive and Media Science
+2018-20xx  
+**B.Sc. Applied Cognitive and Media Science**  
 _University of Duisburg-Essen_
-2018-20xx
 
 ---
 
