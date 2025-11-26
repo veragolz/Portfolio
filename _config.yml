@@ -6,3 +6,7 @@ plugins:
 
 minima:
   skin: auto
+  social_links:
+    - title: Vera Golz at LinkedIn
+      icon: square-linkedin
+      url: "https://www.linkedin.com/in/vera-golz-9a158b253/"

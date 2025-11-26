@@ -11,7 +11,7 @@ _Keen on Digital Learning, (Serious) Gaming and immersive 3D-Simulations with a 
 
 ## Programming
 
-### [Master's Thesis](projects/masters_thesis.md)
+### [Master's Thesis](Projects/masters_thesis.md)
 
 My master's thesis focused on...
 
