@@ -1,3 +1,3 @@
-<h1 style="text-align: center;">Master's Thesis</h1>
+# Master's Thesis
 
 In my master's thesis, I...
