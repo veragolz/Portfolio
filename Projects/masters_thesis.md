@@ -1,7 +1,14 @@
 ---
 layout: post
 title: "Master's Thesis"
+tags: ["Unity", "C#", "Requirements Analysis", "3D Simulation", "VR"]
 ---
+
+<div class="tags">
+    {% for tag in project.tags %}
+      <span class="tag">{{ tag }}</span>
+    {% endfor %}
+  </div>
 
 In my master's thesis, I...
 

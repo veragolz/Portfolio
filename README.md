@@ -38,7 +38,7 @@ _Master's Thesis_
 
 _University Research Project_
 
-## [Development of a Patient Entertainment System for Patients at the Infectious Diseases Ward"](Projects/pes.md)
+## [Development of a Patient Entertainment System for Patients at the Infectious Diseases Ward](Projects/pes.md)
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
