@@ -5,10 +5,10 @@ tags: ["Unity", "C#", "Requirements Analysis", "3D Simulation", "VR"]
 ---
 
 <div class="tags">
-    {% for tag in project.tags %}
+    {% for tag in page.tags %}
       <span class="tag">{{ tag }}</span>
     {% endfor %}
-  </div>
+</div>
 
 In my master's thesis, I...
 
