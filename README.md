@@ -38,9 +38,9 @@ _University of Duisburg-Essen_
 
 ---
 
-## 3D-Modeling of the old Synagogue of Gelsenkirchen as a Contribution towards the Culture of Memory
+## 3D-Modeling of the Old Synagogue of Gelsenkirchen
 
-This project was conducted in my team at mxr storytelling, aiming to preserve...
+Implemented in the course of my work at _mxr storytelling_, this project aims to preserve the culture of memory of the jewish community in Gelsenkirchen, Germany, by virtually reconstructing the old synagogue which was destroyed during the November pogroms in 1938. Due to the lack of old photographs, the modeling oriented on existing cross-section drawings and house files, conversations with members of the Christian Jewish community, historicans, and architects, and extensive research of the building materials.
 
 ---
 
