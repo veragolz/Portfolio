@@ -20,7 +20,9 @@ _University of Duisburg-Essen_
 
 # My Projects
 
-## [Master's Thesis: Multiplayer VR Simulation targeting Adolescents with Anorexia Nervosa](Projects/masters_thesis.md)
+_Master's Thesis_
+
+## [Multiplayer VR Simulation targeting Adolescents with Anorexia Nervosa](Projects/masters_thesis.md)
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
@@ -34,15 +36,55 @@ _University of Duisburg-Essen_
 
 ---
 
-## Research Project (KoKri)
+_University Research Project_
+
+## [Development of a Patient Entertainment System for Patients at the Infectious Diseases Ward"](Projects/pes.md)
+
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+
+<img src="assets/images/kodi_main_page.png" style="width: 20%; border-radius: 8px;" alt="Image of the Patient Entertainment System.">
+
+  <div style="flex: 1;">
+    In this research project, a fellow student and I developed a media system for isolated patients at the Infectious Diseases Ward, using a Raspberry Pi with Kodi as the media center software. As a preparation, interviews with clinicians and surveys with current patients revealed the needs and wishes of the target group as well as systemic difficulties and barriers.
+  </div>
+
+</div>
 
 ---
+
+_Work Project_
 
 ## [3D-Modeling of the Old Synagogue of Gelsenkirchen](Projects/synagogue.md)
 
-Implemented in the course of my work at _mxr storytelling_, this project aims to preserve the culture of memory of the jewish community in Gelsenkirchen, Germany, by virtually reconstructing the old synagogue which was destroyed during the November pogroms in 1938. Due to the lack of old photographs, the modeling oriented on existing cross-section drawings and house files, conversations with members of the Christian Jewish community, historicans, and architects, and extensive research of the building materials.
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+
+<img src="assets/images/synagogue_main_page.png" style="width: 20%; border-radius: 8px;" alt="Image of the virtually reconstructed old synagogue of Gelsenkirchen.">
+
+  <div style="flex: 1;">
+    Implemented in the course of my work at <i>mxr storytelling</i>, this project aims to preserve the culture of memory of the jewish community in Gelsenkirchen, Germany, by virtually reconstructing the old synagogue which was destroyed during the November pogroms in 1938. Due to the lack of photographs from the synagogue, the modeling oriented on existing cross-section drawings and house files, conversations with members of the Christian Jewish community, historicans, and architects, and research of the historical building materials.
+  </div>
+
+</div>
 
 ---
+
+_Work Project_
+
+## [UI Design of a Virtual Tablet in a VR Application](Projects/virtual_tablet_devia.md)
+
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+
+<img src="assets/images/ma_main_page.png" style="width: 20%; border-radius: 8px;" alt="Image of the virtual tablet.">
+
+  <div style="flex: 1;">
+    For a...
+  </div>
+
+</div>
+
+---
+
+_Personal Project_
 
 ## Robotic Arm
 
