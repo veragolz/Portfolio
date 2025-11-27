@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Master's Thesis"
-tags: ["Unity", "C#", "Requirements Analysis", "3D Simulation", "VR"]
 ---
 
-<div class="tags">
-    {% for tag in page.tags %}
-      <span class="tag">{{ tag }}</span>
-    {% endfor %}
+<div style="display: flex; gap: 6px; flex-wrap: wrap;">
+  <span style="background:#eee; padding:4px 8px; border-radius:8px; font-size:0.75rem;">Unity</span>
+  <span style="background:#eee; padding:4px 8px; border-radius:8px; font-size:0.75rem;">C#</span>
 </div>
 
 In my master's thesis, I...
